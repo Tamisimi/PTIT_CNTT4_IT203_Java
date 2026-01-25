@@ -1,6 +1,6 @@
-package SESSION01.HW01;
+package SESSION01.BAI01;
 import java.util.Scanner;
-public class SS01_01 {
+public class BAI01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
