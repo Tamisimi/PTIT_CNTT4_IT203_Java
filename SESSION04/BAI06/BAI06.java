@@ -35,7 +35,6 @@ public class Bai06 {
             result = shortReview.toString();
         }
 
-        // 5. Kết quả
         System.out.println("Review sau khi xử lý: " + result);
     }
 }
