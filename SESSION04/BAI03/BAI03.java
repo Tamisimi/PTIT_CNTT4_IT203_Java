@@ -40,3 +40,5 @@ public class BAI03 {
         System.out.println("Số thời gian thực thi đối với String: " + (endS - startS));
     }
 }
+
+
