@@ -1,11 +1,11 @@
-package SESSION06.HW02;
+package SESSION06.BAI02;
 
-public class SS06_02 {
+public class BAI02 {
     private String username;
     private String password;
     private String email;
 
-    public SS06_02(String username, String password, String email) {
+    public BAI02(String username, String password, String email) {
         this.username = username;
         this.password = password;
         this.email = email;
@@ -24,7 +24,7 @@ public class SS06_02 {
     }
 
     public static void main(String[] args) {
-        SS06_02 acc = new SS06_02(
+        BAI02 acc = new SS06_02(
                 "phamloc",
                 "123456",
                 "phamloc@gmail.com"
