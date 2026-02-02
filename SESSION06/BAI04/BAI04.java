@@ -31,9 +31,9 @@ public class BAI04 {
     }
 
     public static void main(String[] args) {
-        SS06_04 nv1 = new SS06_04();
-        SS06_04 nv2 = new SS06_04("NV01", "Nguyễn Văn A");
-        SS06_04 nv3 = new SS06_04("NV02", "Trần Thị B", 15000000);
+        BAI04 nv1 = new BAI04();
+        BAI04 nv2 = new BAI04("NV01", "Nguyễn Văn A");
+        BAI04 nv3 = new BAI04("NV02", "Trần Thị B", 15000000);
 
         nv1.hienThiThongTin();
         nv2.hienThiThongTin();
