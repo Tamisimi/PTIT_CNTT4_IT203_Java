@@ -19,8 +19,8 @@ public class BAI05 {
     }
 
     public static void main(String[] args) {
-        SS06_05 b1 = new SS06_05("S01", "Lập trình Java cơ bản", 120000);
-        SS06_05 b2 = new SS06_05("S02", "OOP từ A đến Z", 150000);
+        BAI05 b1 = new BAI05("S01", "Lập trình Java cơ bản", 120000);
+        BAI05 b2 = new BAI05("S02", "OOP từ A đến Z", 150000);
 
         b1.hienThiThongTin();
         b2.hienThiThongTin();
